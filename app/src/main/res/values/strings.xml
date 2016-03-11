@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AudioCapture</string>
+    <string name="action_settings">Settings</string>
+    <string name="android_audio_recording">Android Audio Recording</string>
+    <string name="tutorialspoint">Tutorialspoint</string>
+    <string name="play">Play</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+</resources>
